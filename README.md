@@ -73,6 +73,7 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
+---
 
 ## Daniel's Jenkins test 1...2...3...4...Eureka!
 
@@ -83,3 +84,4 @@ This stretched me, and I'm grateful for it
 ## We back!
 ## AGAIN
 ## And AGAIN!
+## Doesn't matter how many times you fail. What matters is how many time you can get back up and TRY AGAIN!
