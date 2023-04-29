@@ -84,4 +84,4 @@ This stretched me, and I'm grateful for it
 ## We back!
 ## AGAIN
 ## And AGAIN!
-## Doesn't matter how many times you fail. What matters is how many time you can get back up and TRY AGAIN!
+## Doesn't matter how many times you fail. What matters is how many time you can get back up and TRY AGAIN.!!
